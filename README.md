@@ -1,4 +1,4 @@
 # Human+Machine
 Summary
 
-## FIRST 
+![image](https://github.com/JonathanJuez/Human-plus-Machine/human.png)
