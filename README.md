@@ -1,2 +1,2 @@
-# Human-plus-Machine
+# Human+Machine
 Summary
