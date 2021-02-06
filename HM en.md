@@ -1,5 +1,7 @@
 ﻿Human + Machine
 
+![image](https://github.com/JonathanJuez/Human-plus-Machine/blob/main/human.JPG)
+
 Summary
 
 **Daugherty and Wilson**
