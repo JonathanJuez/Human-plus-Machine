@@ -4,5 +4,6 @@
 
 The authors through their research demonstrated that leading companies are successfully developing towards innovation and gaining the skills needed to capitalize on the Union between machines, and humans by applying the five principles of relations with; Mentality, Experimentation, Leadership, Data, Skills. These five principles are called the MELDS framework
 
-[![](http://img.youtube.com/vi/v=3ReIWtrE0rU/0.jpg)](https://www.youtube.com/watch?v=3ReIWtrE0rU "")
+[![Alt text for your video](http://img.youtube.com/vi/v=3ReIWtrE0rU/0.jpg)](https://www.youtube.com/watch?v=3ReIWtrE0rU)
+
 
